@@ -6,7 +6,7 @@ This repository serves as the official placeholder and technical specification f
 > [!IMPORTANT]
 > **ACCESS RESTRICTED:** The link below contains the logic and development history of this project. It is only accessible to the account owner.
 > 
-> [👉 RESUME CHAT WITH GEMINI HERE](https://gemini.google.com/)
+> [👉 RESUME CHAT WITH GEMINI HERE](https://gemini.google.com/u/2/app/754425050846ab79)
 
 ---
 
